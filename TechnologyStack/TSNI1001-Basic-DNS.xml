@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<module>
+	<title>Basic DNS</title>
+	<objective>
+		Gain an understanding of DNS
+	</objective>
+	<tssbat>
+		<item>
+			Explain the role of DNS in web browsing.
+		</item>
+		<item>
+			Configure DNS for a new website.
+		</item>
+	</tssbat>
+</module>
+<!-- vim: set tabstop=2 shiftwidth=2: -->
