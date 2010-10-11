@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<module>
+	<title>
+		HTTP Status Codes
+	</title>
+	<objective>
+		Gain an understanding of HTTP status codes
+	</objective>
+	<tssbat>
+		<item>
+			Explain the role of HTTP status codes.
+		</item>
+		<item>
+			Choose the right HTTP status code for common situations.
+		</item>
+	</tssbat>
+</module>
+<!-- vim: set tabstop=2 shiftwidth=2: -->
