@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<module>
+	<title>
+		HTTP And Content Types
+	</title>
+	<objective>
+		Gain an understanding of MIME content types
+	</objective>
+	<tssbat>
+		<item>
+			Explain the role of a MIME content type.
+		</item>
+		<item>
+			Choose the right MIME content type for common situations.
+		</item>
+		<item>
+			Know where to find the right MIME types for other types of data.
+		</item>
+	</tssbat>
+</module>
+<!-- vim: set tabstop=2 shiftwidth=2: -->
