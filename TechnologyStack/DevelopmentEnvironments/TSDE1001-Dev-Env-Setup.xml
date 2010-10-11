@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<module>
+	<title>
+		Personal Development Environment Setup
+	</title>
+	<objective>
+		Setup a basic development environment
+	</objective>
+	<tssbat>
+		<item>
+			Install PHP binaries.
+		</item>
+		<item>
+			Install a suitable IDE.
+		</item>
+		<item>
+			Install a source control client.
+		</item>
+		<item>
+			Transfer their work to a test environment,
+		</item>
+		<item>
+			Transfer their work to a live environment.
+		</item>
+	</tssbat>
+</module>
+<!-- vim: set tabstop=2 shiftwidth=2: -->
